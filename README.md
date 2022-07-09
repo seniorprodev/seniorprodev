@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=seniorprodev&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
@@ -15,7 +14,7 @@
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorprodev&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <br/>
-<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
@@ -53,7 +52,6 @@ I'll always be with you and your business.
 <!-- Over the past 8 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>-->
 
 <!-- ### My highlight skills:
-
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
 ✔️ Material UI, MDB Pro React, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. </br>
