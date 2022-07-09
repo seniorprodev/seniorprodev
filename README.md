@@ -45,7 +45,7 @@
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 I'll always be with you and your business.
-<div> -->
+<div>
   
     
 <!-- ### Enthusiastic and creative developer with hands-on skills in a wide range of web applications -->
